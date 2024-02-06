@@ -1,4 +1,4 @@
-# 🎨 Welscome to my Github Profile 💻
+# 🎨 Welcome to my Github Profile 💻
 
 
 Hello there! 👋 I'm Satyam Singh, a passionate B.Tech student who loves the world of design and coding! 🎨💻 From a young age, I've been captivated by the creative process, and I'm equally fascinated by the power of coding to solve real-world problems.
